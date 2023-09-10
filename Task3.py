@@ -5,7 +5,7 @@ MaleCount = 0
 FemaleCount = 0
 
 
-'Declaring input and output files'
+'Declaring input and output files locally'
 file_name = "Employees.csv"
 file_name_output = "output.csv"
 
