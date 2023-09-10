@@ -1,6 +1,6 @@
 import pandas as pd
 
-'Male and female counters'
+'Male and female counters initialized'
 MaleCount = 0
 FemaleCount = 0
 
